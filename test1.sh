@@ -1,6 +1,8 @@
 #!/bin/bash
-echo "Hello World venkat sivaji"
-abdc="venky"
-echo $a
-echo $var $var2
+
+test='car'
+echo $test
+
+colgname='khit'
+echo $colgname
 
