@@ -1,8 +1,8 @@
 #!/bin/bash
 #zphs pallikona class wise boys and girls total list
-tolallist6=" 40 "
-totallist7=" 35 "
-totallist8=" 60 "
-tptallist9=" 68 "
-totlalist10=" 55 "
-echo $totallist6 $totallist7 $totallist8 $totallist9 $totallist10
+tolallist6=40
+tolallist7=35
+tolallist8=60
+tolallist9=68
+tolallist10=55
+echo $tolallist6 $tolallist7 $tolallist8 $tolallist9 $tolallist10
