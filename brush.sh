@@ -1,5 +1,0 @@
-gyqgwuhgw
-hgyugw
-uhdh
-kehjiu
-
