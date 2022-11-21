@@ -1,5 +1,10 @@
 #!/bin/bash
-for (( a=1; a<=10; a++ )) 
+a=("venky" "phani" "sarath" "ravi" "sivaji" "praveen" "munna" "tinku")
+for i in  ${a[@]}
 do 
-	echo "$a"
+if [ $i == "munna" ]
+then
+echo $i 
+fi
+echo "                       "
 done
