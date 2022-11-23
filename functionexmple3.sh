@@ -8,12 +8,16 @@ echo "$ownername"
 echo "$carname"
 echo "$carcolour"
 echo "$carnumber"
-if [ $ownername == $"venky" ]
+cars=("ownername" "carname" "carcolour" "carnumber")
+for i in ${cars[@]}
+do       
+if [ $i == "carname" ]
 then
-	echo "car"
+	echo $carcolour
 else
 	echo "11111111111"
 fi
+done
 }
 car "venky" "bmw" "green" "12345"
 echo "--------------------------"
